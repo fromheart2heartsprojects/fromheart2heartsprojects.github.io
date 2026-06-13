@@ -10,21 +10,15 @@ Welcome to From Heart to Hearts Projects.
 
 This project was created to provide free Islamic books and reflections that help strengthen faith, deepen understanding, and bring hearts closer to Allah.
 
----
-
 ## 📖 When You Stand to Pray
 
 A personal reflection on Salah and the relationship between a servant and their Lord.
 
-
-[📥 Download Book 1 (PDF)]
-(When_You_Stand_To_Pray_Book_1.pdf)
 Whether your iman is strong, weak, or somewhere in between, this book is written for anyone seeking to reconnect with Allah through prayer.
 
-### Download Book
+### 📥 Download Book 1
 
-[Download When You Stand to Pray](When_You_Stand_To_Pray_Book_1.pdf)
-
+[Download When You Stand to Pray (PDF)](When_You_Stand_To_Pray_Book_1.pdf)
 ---
 
 ## Future Releases
