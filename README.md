@@ -1,5 +1,7 @@
 # From Heart to Hearts Projects
 
+![Book Cover](file_00000000e68c71fabac34361151b7026.png)
+
 ## Free Islamic Books, Reflections, and Resources
 
 Assalamu Alaikum wa Rahmatullahi wa Barakatuh,
