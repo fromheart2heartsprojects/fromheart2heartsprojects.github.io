@@ -1,10 +1,10 @@
-# From Heart to Heart Projects
+# From Heart to Hearts Projects
 
 ## Free Islamic Books, Reflections, and Resources
 
 Assalamu Alaikum wa Rahmatullahi wa Barakatuh,
 
-Welcome to From Heart to Heart Projects.
+Welcome to From Heart to Hearts Projects.
 
 This project was created to provide free Islamic books and reflections that help strengthen faith, deepen understanding, and bring hearts closer to Allah.
 
