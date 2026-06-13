@@ -1,4 +1,4 @@
-# From Heart to Hearts Projects
+# From Heart to Hearts Project
 
 ![Book Cover](file_00000000e68c71fabac34361151b7026.png)
 
@@ -6,7 +6,7 @@
 
 Assalamu Alaikum wa Rahmatullahi wa Barakatuh,
 
-Welcome to From Heart to Hearts Projects.
+Welcome to From Heart to Hearts Project.
 
 This project was created to provide free Islamic books and reflections that help strengthen faith, deepen understanding, and bring hearts closer to Allah.
 
