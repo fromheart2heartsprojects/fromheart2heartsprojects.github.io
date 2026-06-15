@@ -29,6 +29,6 @@ More books and resources will be added here, in shaa Allah.
 
 ---
 
-© Bilal De La Rosa
+© June 2026 Bilal De La Rosa
 
 Permission is granted to copy, share, distribute, and transmit this work in its entirety for non-commercial purposes, provided proper attribution is given and the content is not altered.
